@@ -40,11 +40,9 @@
 
 ### 📫 Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-usuario)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=github)](https://tuweb.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/ana-zoraida-falcon-hernandez)
+
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+
